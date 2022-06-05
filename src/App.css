@@ -1,0 +1,17 @@
+.App {
+  border: 1px solid #cecece;
+  border-radius: 8px;
+  margin: auto;
+  margin-top: 6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  height: 50vh;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.App h2 {
+  color: orangered;
+}
